@@ -1,4 +1,5 @@
 {
-    "githubClientId": null,
-    "githubClientSecret": null
+    "githubAccessToken": null,
+    "githubUrl": "https://api.github.com/",
+    "organization": "angular"
 }
